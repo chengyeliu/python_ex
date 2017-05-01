@@ -10,7 +10,7 @@ print txt.read()
 
 
 
-file_again = raw_input("> ")
+
 
 txt_again = open(file_again)
 
